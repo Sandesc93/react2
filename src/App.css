@@ -29,7 +29,7 @@
 .card{
     width: 100%;
     max-width: 400px;
-    background-color: #fff8;
+    background-color: #fff7;
     padding: 20px;
     display: grid;
     border-radius: 12px;
@@ -58,21 +58,27 @@
     gap: 20px;
 }
 
+.second__tittle{
+    font-size: 1.1rem;
+    text-shadow: 2px 4px 4px #fff;
+    text-transform: uppercase;
+}
+
 .second__list{
     display: grid;
     gap: 7px;
 }
 
 .second__span{
-    color: #034862;
-    text-shadow: 2px 2px 3px #fff;
+    color: #000;
+    text-shadow: 2px 3px 3px #fff;
     font-weight: 600;
     font-size: 1.2rem;
 
 }
 
 .second__item{
-    color:#054546;
+    color: #eefff6;
     text-shadow: 2px 2px 4px #2B2E30;
     font-weight: 600;
     font-size: 1 rem;
@@ -92,8 +98,8 @@
     padding: 20px;
     border: none;
     border-radius: 55px ;
-    background-color: aqua;
-    color: antiquewhite;
+    background-color: #206667;
+    color:  #86D4D5 ;
     font-size: 1.2rem;
     font-weight: 700;
     text-shadow:  2px 4px 4px #000;
