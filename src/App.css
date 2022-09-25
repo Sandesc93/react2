@@ -93,9 +93,9 @@
 
 .second__item{
     color: #eefff6;
-    text-shadow: 2px 2px 4px #2B2E30;
+    text-shadow: 3px 2px 2px #0A32F7 ;
     font-weight: 600;
-    font-size: 1 rem;
+    font-size: 1.2rem;
 }
 
 .card__temperature{
